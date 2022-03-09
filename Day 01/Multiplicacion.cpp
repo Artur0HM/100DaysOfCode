@@ -14,7 +14,7 @@ int main (){
     cout << "Ingrese el segundo número: ";
     cin >> numero_dos;
 
-    cout << "La multiplicación es: " << numero_uno * numero_dos;
+    cout << "La multiplicación es : " << numero_uno * numero_dos;
 
     return 0;
 }
