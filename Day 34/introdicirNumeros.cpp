@@ -31,6 +31,5 @@ int main (){
         cout << "El número que ingrese debe ser mayoe a CERO.";
     }
     
-
     return 0;
 }
